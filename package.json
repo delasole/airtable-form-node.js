@@ -1,0 +1,22 @@
+{
+  "name": "otto_airtable",
+  "version": "1.0.0",
+  "description": "An application that allows us to collect responses from survey's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delasole/airtable-form-node.js.git"
+  },
+  "author": "Donnisha Frison (CTO)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delasole/airtable-form-node.js/issues"
+  },
+  "homepage": "https://github.com/delasole/airtable-form-node.js#readme",
+  "dependencies": {
+    "tailwindcss": "^1.1.3"
+  }
+}
